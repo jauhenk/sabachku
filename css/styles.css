@@ -246,15 +246,15 @@ h3 {
   background-size: 9.08rem 8rem;
 }
 
-p {
+p, dl {
   margin-bottom: 1.58rem
 }
 
-li, p {
+li, p, dl {
   font-size: 2rem
 }
 
-li {
+li, dd {
   position: relative;
   padding-left: 1.5rem
 }
