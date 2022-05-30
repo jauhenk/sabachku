@@ -274,7 +274,7 @@ li:before {
   }
 }
 
-p + h2, p + h3, ul + h3 {
+p + h2, p + h3, ul + h3, hr + h3 {
   padding-top: 4rem
 }
 
